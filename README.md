@@ -1,0 +1,4 @@
+Leaflet.FitPopup
+================
+
+Leaflet.FitPopup
